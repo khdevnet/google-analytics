@@ -6,7 +6,17 @@
 ## Prerequisites
 * [What is google analytics?](https://searchbusinessanalytics.techtarget.com/definition/Google-Analytics)
 * [What is google tag manager?](https://support.google.com/tagmanager/answer/6102821?hl=en)
+* [What is google optmize?](https://support.google.com/tagmanager/answer/7164339?hl=en)
+* [What is marketing funnel?](https://www.pixelme.me/blog/marketing-funnel)
+
+# Marketing funnel
+![image](https://user-images.githubusercontent.com/14298158/122671549-e4ae5d80-d1cf-11eb-964f-aa92ac2fee01.png)
+
+
+# Google tag manager
 ![image](https://user-images.githubusercontent.com/14298158/122670528-37394b00-d1cb-11eb-8482-42c299be210a.png)
+
+
 
 # Configure Google tag manager
 * [Account](https://www.youtube.com/watch?v=BQiuVEdeU2Q)
